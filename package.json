@@ -1,0 +1,16 @@
+{
+  "name": "bug-free-octo-umbrella",
+  "version": "0.1.0",
+  "description": "A bug free octo umbrella project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
