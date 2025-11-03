@@ -66,3 +66,8 @@ Added new feature.
 ## Update 24
 
 Added new feature.
+
+
+## Update 32
+
+Added new feature.
